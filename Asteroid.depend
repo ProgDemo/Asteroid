@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1522971525 source:e:\elte\prog_demo\asteroid\main.cpp
+	<iostream>
+	"Analyze.h"
+
+1522964454 e:\elte\prog_demo\asteroid\asteroid.h
+	<vector>
+	<ostream>
+	<sstream>
+
+1522964454 source:e:\elte\prog_demo\asteroid\asteroid.cpp
+	"Asteroid.h"
+
+1522964737 e:\elte\prog_demo\asteroid\infile.h
+	<sstream>
+	<fstream>
+	<vector>
+	"Asteroid.h"
+
+1522964613 source:e:\elte\prog_demo\asteroid\infile.cpp
+	"InFile.h"
+
+1522971543 e:\elte\prog_demo\asteroid\analyze.h
+	<iostream>
+	"InFile.h"
+
